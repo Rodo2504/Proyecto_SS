@@ -1,0 +1,29 @@
+.container{
+    padding: 50px;
+    border: 2px solid rgb(7, 104, 168);
+    border-radius: 8px;
+    box-shadow: 8px 10px #D2D8D8;
+    background-color: #BAE5F3;
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+.uno{
+    flex: 1 2 20%;
+}
+.dos{
+    flex: 1 2 40%;
+}
+.nom{
+    font-size: 20px;
+    font-family: cursive;
+}
+input, select{
+    border: none;
+    border-radius: 5px;
+    padding: 1px;
+    width: 250px;
+}
+.btn{
+    font-size: 20px;
+}

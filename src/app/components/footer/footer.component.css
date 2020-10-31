@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #273672;
+    padding: 5px;
+}
+.info1{
+    margin-left: 20px;
+}
+.info2{
+    margin-right: 20px;
+    color: white;
+    font-size: 12px;
+    text-align: right;
+}
