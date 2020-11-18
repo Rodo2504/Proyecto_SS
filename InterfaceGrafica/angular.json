@@ -125,6 +125,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-redes"
+    }
+  },
+  "defaultProject": "app-redes",
+  "cli": {
+    "analytics": "f53124ca-80b2-4020-a311-66e641f834b8"
+  }
 }
